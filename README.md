@@ -54,5 +54,6 @@ The app uses **computer vision + hand landmarks + simple gesture rules** to:
 1. Clone or download this repository:
 
 ```bash
-git clone https://github.com/<your-username>/hand-gesture-lock.git
+git clone https://github.com/AIislamdemir/hand-gesture-lock
 cd hand-gesture-lock
+
